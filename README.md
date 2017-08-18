@@ -4,28 +4,35 @@ My custom toolbar created using tool-bar.
 
 ### Available Buttons
 
-* **Open File**
+* __Open File__
+* __Close All Tabs__
 * \-
-* **Split Up**
-* **Split Down**
+* __Split Up__
+* __Split Down__
 * \-
 * ~~Toggle Outline~~
 * \-
-* **Reload Window**
-* **Developer Tools**
+* __Reload Window__
+* __Developer Tools__
 * \-
-* **Git Plus (Run)**
-* **Git Fetch**
-* **Git Pull**
-* **Git Push**
+* __Git Plus (Run)__
+* __Git Fetch__
+* __Git Pull__
+* __Git Push__
 * \-
-* **Markdown Preview**
+* __Markdown Preview__
 * \-
-* **Command Palette**
-* **Preferences**
+* __Backup__
+* __View Backup__
+* \-
+* __Command Palette__
+* __Preferences__
+* \-
+* __About Atom__
 
 ### Optional Dependencies
 
-* **git-plus**
+* __git-plus__
+* __sync-settings__
 
 ![](https://github.com/eadwu/tool-bar-custom/blob/master/assets/package.png)
