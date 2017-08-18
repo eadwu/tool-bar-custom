@@ -1,6 +1,6 @@
 {
   "name": "tool-bar-custom",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My custom toolbar created using tool-bar",
   "main": "./lib/tool-bar-custom",
   "engines": {
