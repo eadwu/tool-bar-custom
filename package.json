@@ -1,0 +1,27 @@
+{
+  "name": "tool-bar-custom",
+  "version": "0.0.0",
+  "description": "My custom toolbar created using tool-bar",
+  "main": "./lib/tool-bar-custom",
+  "engines": {
+    "atom": ">=1.20.0"
+  },
+  "keywords": [
+    "tool-bar"
+  ],
+  "repository": "https://github.com/eadwu/tool-bar-custom.git",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "atom-package-dependencies": "^1.0.3"
+  },
+  "packageDependencies": {
+    "tool-bar": "^1.1.0"
+  },
+  "consumedServices": {
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolBar"
+      }
+    }
+  }
+}
