@@ -7,9 +7,10 @@ My custom toolbar created using tool-bar.
 * __Open File__
 * __Close All Tabs__
 * \-
-* __Split Up__
+* __Split Right__
 * __Split Down__
 * \-
+* __Toggle Tree View__
 * __Toggle Outline__
 * \-
 * __Reload Window__
@@ -17,6 +18,7 @@ My custom toolbar created using tool-bar.
 * \-
 * __Git Plus (Run)__
 * __Git Fetch__
+* __Git Force Push__
 * __Git Pull__
 * __Git Push__
 * \-
