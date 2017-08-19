@@ -10,7 +10,7 @@ My custom toolbar created using tool-bar.
 * __Split Up__
 * __Split Down__
 * \-
-* ~~Toggle Outline~~
+* __Toggle Outline__
 * \-
 * __Reload Window__
 * __Developer Tools__
@@ -35,4 +35,4 @@ My custom toolbar created using tool-bar.
 * __git-plus__
 * __sync-settings__
 
-![](https://github.com/eadwu/tool-bar-custom/blob/master/assets/package.png)
+![](./assets/package.png)
