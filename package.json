@@ -9,7 +9,7 @@
   "keywords": [
     "tool-bar"
   ],
-  "repository": "https://github.com/eadwu/tool-bar-custom",
+  "repository": "https://gitlab.com/eadwu/tool-bar-custom",
   "license": "BSD-3-Clause",
   "dependencies": {
     "atom-package-dependencies": "^1.0.3"
