@@ -10,9 +10,6 @@ My custom toolbar created using tool-bar.
 * __Split Right__
 * __Split Down__
 * \-
-* __Toggle Tree View__
-* __Toggle Outline__
-* \-
 * __Reload Window__
 * __Developer Tools__
 * \-
@@ -23,6 +20,7 @@ My custom toolbar created using tool-bar.
 * __Git Push__
 * \-
 * __Markdown Preview__
+* __HTML Preview__
 * \-
 * __Backup__
 * __View Backup__
